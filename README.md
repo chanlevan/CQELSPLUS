@@ -124,9 +124,9 @@ public class Demo
 }
 ```
 # Work with the Input Data
-The above example work with the [conference senario data](https://code.google.com/archive/p/cqels/downloads)
+The above example works with the [conference senario data](https://code.google.com/archive/p/cqels/downloads)
 
-For RSP engine data, there are some popular benchmarks: 
+For RSP engine data, there are some other popular benchmarks: 
 
 [SRBench](https://www.w3.org/wiki/SRBench)
 
