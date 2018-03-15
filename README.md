@@ -12,8 +12,8 @@ This folder contains:
   [Java 1.7](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
  
   [Maven 3.3](https://maven.apache.org/download.cgi)
-# Application Installation
-Checkout the repo; navigate to the folder CQELSPLUS and type ```mvn clean install```.
+# Application Compilation
+Checkout the repo; navigate to the folder CQELSPLUS and type ```mvn clean compile```.
 After this command is finished, there will be a target folder contains 2 jar files. The first one is ```cqelsplus-0.0.1-SNAPSHOT.jar``` and the second one is ```cqelsplus-0.0.1-SNAPSHOT-jar-with-dependencies.jar```. We usually use the second one to run the engine as itself has been included all the dependencies.
 
 # Application Structure
