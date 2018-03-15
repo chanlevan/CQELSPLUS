@@ -22,8 +22,6 @@ import cqelsplus.engine.Config;
 import cqelsplus.engine.CqelsplusExecContext;
 import cqelsplus.engine.ExecContext;
 import cqelsplus.engine.ExecContextFactory;
-import cqelsplus.execplan.oprouters.QueryRouter;
-import cqelsplus.run.masterthesis.exp.SelectOutputListener;
 
 public class LSBenchExp2 
 {
