@@ -37,7 +37,7 @@ public class SelectQuery
 		
 		Config.PRINT_LOG = true;
 		FileManager filemanager = FileManager.get();
-        String queryname = filemanager.readWholeFileAsUTF8(CQELSDATA+QUERYNAME);
+        String queryname = filemanager.readWholeFileAsUTF8(CQELSDATA+ "/" + QUERYNAME);
 
         final ExecContext context = new CqelsplusExecContext(CQELSHOME, true);
         
