@@ -43,7 +43,7 @@
 	                  <archive>
 	                      <manifest>
 	                          <addClasspath>true</addClasspath>
-	                          <mainClass>cqelsplus.main.LSBenchExp2</mainClass>
+	                          <mainClass>cqelsplus.launch.SelectQuery</mainClass>
 	                      </manifest>
 	                  </archive>
 	                  <descriptorRefs>
